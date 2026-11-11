@@ -1,0 +1,8 @@
+# Data and anything with coordinates of candidates stays out of git (repo is public)
+.venv/
+cache/
+outputs/
+chips/
+candidates*
+dossiers/
+map.html
